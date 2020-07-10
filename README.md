@@ -1,13 +1,18 @@
 ## WebHotelier
 
-![WebHotelier logo](https://cdn.webhotelier.net/img/brand/webhotelier/logo.svg)
+https://www.webhotelier.net/
 
----
+![WebHotelier logo](./webhotelier.svg)
+
 
 ## LWJGL
 
-![LWJGL Logo](http://cdn.lwjgl.org/img/fav/lwjgl.svg)
+https://www.lwjgl.org/
+
+![LWJGL Logo](./lwjgl.svg)
 
 ## hiphop.gr
 
-![hiphop.gr logo](https://cdn.hiphop.gr/logo.svg)
+https://www.hiphop.gr/
+
+![hiphop.gr logo](./hiphop.svg)
