@@ -2,17 +2,17 @@
 
 https://www.webhotelier.net/
 
-![WebHotelier logo](webhotelier.svg)
+![WebHotelier logo](https://raw.githubusercontent.com/apostolos/apostolos/master/webhotelier.svg)
 
 
 ## LWJGL
 
 https://www.lwjgl.org/
 
-![LWJGL Logo](lwjgl.svg)
+![LWJGL Logo](https://raw.githubusercontent.com/apostolos/apostolos/master/lwjgl.svg)
 
 ## hiphop.gr
 
 https://www.hiphop.gr/
 
-![hiphop.gr logo](hiphop.svg)
+![hiphop.gr logo](https://raw.githubusercontent.com/apostolos/apostolos/master/hiphop.svg)
