@@ -1,4 +1,4 @@
-![WebHotelier logo](https://raw.githubusercontent.com/apostolos/apostolos/master/webhotelier.svg)  
+![WebHotelier logo](https://raw.githubusercontent.com/apostolos/apostolos/master/webhotelier-signature.min.svg)  
 [WebHotelier - https://www.webhotelier.net/](https://www.webhotelier.net/)
 
 ---
