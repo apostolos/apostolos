@@ -1,12 +1,16 @@
-![WebHotelier logo](https://raw.githubusercontent.com/apostolos/apostolos/master/webhotelier-signature.min.svg)  
-[WebHotelier - https://www.webhotelier.net/](https://www.webhotelier.net/)
+<img src="https://raw.githubusercontent.com/apostolos/apostolos/master/webhotelier-signature.min.svg" alt="webhotelier" width="320" />
+
+[webhotelier | primalres - webhotelier.net](https://www.webhotelier.net/)
+
 
 ---
 
-![LWJGL Logo](https://raw.githubusercontent.com/apostolos/apostolos/master/lwjgl.svg)  
-[LWJGL - https://www.lwjgl.org/](https://www.lwjgl.org/)
+<img src="https://raw.githubusercontent.com/apostolos/apostolos/master/lwjgl.svg" alt="LWJGL" width="128" />
+
+[LWJGL - lwjgl.org](https://www.lwjgl.org/)
 
 ---
 
-![hiphop.gr logo](https://raw.githubusercontent.com/apostolos/apostolos/master/hiphop.svg)  
-[hiphop.gr - https://www.hiphop.gr/](https://www.hiphop.gr/)
+<img src="https://raw.githubusercontent.com/apostolos/apostolos/master/hiphop.svg" alt="hiphop.gr" width="320" />
+
+[hiphop.gr](https://www.hiphop.gr/)
